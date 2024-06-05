@@ -24,11 +24,17 @@ This repo is structured with each network having a high level directory which co
 
 <!-- Badge row 3 - detailed status -->
 
+
+
 [![GitHub pull requests by-label](https://img.shields.io/github/issues-pr-raw/base-org/contract-deployments)](https://github.com/base-org/contract-deployments/pulls)
 [![GitHub Issues](https://img.shields.io/github/issues-raw/base-org/contract-deployments.svg)](https://github.com/base-org/contract-deployments/issues)
 
 ## Setup
 
+
+hello guys
+
+mimim(fdf./)
 First install forge if you don't have it already:
 
 - Run `make install-foundry` to install [`Foundry`](https://github.com/foundry-rs/foundry/commit/3b1129b5bc43ba22a9bcf4e4323c5a9df0023140).
